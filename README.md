@@ -11,7 +11,7 @@ The Spark EFI project is a flexible, fully featured Engine Management Systems (E
 The Speeduino firmware online manual can be found at: https://wiki.speeduino.com
 
 ## Where to Buy
-[Pre-made Spark EFI units/boards are available from a number of official resellers](https://www.aliexpress.com/store/5782349)
+[Pre-made Spark EFI units/boards are available from a number of official resellers](https://www.sparkefi.net)
 
 ## Support
 In addition the manual referenced above, Speeduino has a large and very vibrant community of people to help out with your setup or any questions you might add. 
